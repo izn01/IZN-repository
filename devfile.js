@@ -1,1 +1,1 @@
-console.log("dev updated in git ext local");
+console.log("dev updated in git ext local.");
