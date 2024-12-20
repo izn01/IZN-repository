@@ -1,1 +1,1 @@
-console.log("dev updated in web");
+console.log("dev updated in local");
